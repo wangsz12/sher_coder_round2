@@ -189,3 +189,4 @@ $$
 以及学长在 README 中提到的 Linux 、 Docker 、 NoSQL 、 Vue.js 、 Serverless 、 Node.js 我的有学习的兴趣。
 
 Figma 以及微信小程序能让我的车技能力更近一步。
+
