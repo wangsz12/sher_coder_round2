@@ -30,7 +30,9 @@
 
 ##2.学习Markdown
    
-    Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。 因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果。Markdown编辑格式操作简单明了，只需要学习相关博客就可以熟练掌握，这里附上我所学习的其他人的博客地址：https://www.jianshu.com/p/191d1e21f7ed/
+    Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。 
+    因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果。Markdown编辑格式操作简单明了，只需要学习相关博客就可以熟练掌握。
+    这里附上我所学习的其他人的博客地址：https://www.jianshu.com/p/191d1e21f7ed/
     
 
 ##3.Markdown实践
@@ -63,7 +65,9 @@
 
 (```)
     public static void main(String[]args){
-         System.out.printf("代码块");
-      };
+        
+        System.out.printf("代码块");
+      
+      }
 (```)
 
