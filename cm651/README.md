@@ -37,7 +37,7 @@ git
 
 
 
-![img](https://github.com/are-la/sher_coder_round2/tree/master/cm651/images/git_book.jpg) 
+![img](https://github.com/are-la/sher_coder_round2/raw/master/cm651/images/git_book.jpg) 
 
 使用git进行版本控制过程中：
 
