@@ -15,6 +15,7 @@
                               （2）在git客户端执行指令：clip < ~/.ssh/id_rsa.pub（复制ssh key，便于后续创建）
                               （3）打开GitHub网页，进入setting找到ssh key并新建ssh key实例
                               （4）在git客户端执行指令：ssh -T git@github.com测试连接是否成功
+    
     4.进入本地要提交项目文件的的所在位置打开Git Bash。
     
     5.依次在git客户端执行指令：（1）git init
@@ -57,9 +58,9 @@
 内容|内容|内容
 内容|内容|内容
 
-(```)
+(```
     public static void main(String[]args){
          System.out.printf("代码块");
       };
-(```)
+```)
 
