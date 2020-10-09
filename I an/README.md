@@ -64,10 +64,8 @@
 内容|内容|内容
 
 (```)
-    public static void main(String[]args){
-        
-        System.out.printf("代码块");
-      
-      }
+    function fun(){
+         alert("代码块");
+    }
+    fun();
 (```)
-
